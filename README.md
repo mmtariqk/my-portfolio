@@ -15,7 +15,16 @@ GitHub Repository URL: 2. https://github.com/mmtariqk/my-portfolio
 
 c.  App Screenshots:
 
+<img width="1686" alt="Screen Shot 2021-02-14 at 1 54 15 PM" src="https://user-images.githubusercontent.com/77028806/107890521-50a15200-6ece-11eb-8094-26a45ed18690.png">
 
+<img width="483" alt="Screen Shot 2021-02-14 at 1 54 52 PM" src="https://user-images.githubusercontent.com/77028806/107890534-5c8d1400-6ece-11eb-89fa-f70316542313.png">
+
+<img width="485" alt="Screen Shot 2021-02-14 at 1 55 24 PM" src="https://user-images.githubusercontent.com/77028806/107890551-7890b580-6ece-11eb-8bda-33379a694279.png">
+
+<img width="486" alt="Screen Shot 2021-02-14 at 1 55 55 PM" src="https://user-images.githubusercontent.com/77028806/107890563-86ded180-6ece-11eb-9796-b2903106528f.png">
+
+
+<img width="485" alt="Screen Shot 2021-02-14 at 1 56 25 PM" src="https://user-images.githubusercontent.com/77028806/107890576-94945700-6ece-11eb-8e45-77804b67c96e.png">
 
 
 
